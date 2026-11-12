@@ -1,0 +1,14 @@
+{
+  "min_version": "1.1.05",
+  "force_update": false,
+  "ios_link": "https://apps.apple.com/app/id6761814458",
+  "android_link": "https://play.google.com/store/apps/details?id=com.codinghub.holdit",
+  "cache_duration_minutes": 1440,
+  "links": {
+    "upvote": "https://qodam.com",
+    "terms": "https://qodam.com/terms",
+    "privacy": "https://qodam.com/privacy",
+    "email": "codinghubstudio@gmail.com",
+    "apps": "https://qodam.com"
+  }
+}
