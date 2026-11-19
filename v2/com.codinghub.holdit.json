@@ -5,10 +5,10 @@
   "android_link": "https://play.google.com/store/apps/details?id=com.codinghub.holdit",
   "cache_duration_minutes": 1440,
   "links": {
-    "upvote": "https://qodam.com",
+    "upvote": "https://qodam.com/upvote?id=com.codinghub.holdit",
     "terms": "https://qodam.com/terms",
     "privacy": "https://qodam.com/privacy",
-    "email": "codinghubstudio@gmail.com",
+    "email": "qodamcontact@gmail.com",
     "apps": "https://qodam.com"
   }
 }
