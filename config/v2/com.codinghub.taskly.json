@@ -1,0 +1,14 @@
+{
+  "min_version": "1.3.09",
+  "force_update": false,
+  "ios_link": "https://apps.apple.com/app/id6749085434",
+  "android_link": "https://play.google.com/store/apps/details?id=com.codinghub.taskly",
+  "cache_duration_minutes": 1440,
+  "links": {
+    "upvote": "https://qodam.com/upvote?id=com.codinghub.taskly",
+    "terms": "https://qodam.com/terms",
+    "privacy": "https://qodam.com/privacy",
+    "email": "qodamcontact@gmail.com",
+    "apps": "https://qodam.com"
+  }
+}
